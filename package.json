@@ -1,0 +1,14 @@
+{
+  "name": "cypress-traveloka",
+  "version": "1.0.0",
+  "description": "This project to testing traveloka.com with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhrez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  }
+}
